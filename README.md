@@ -168,6 +168,7 @@ Cleanly terminates the program.
 Full step-by-step usage (with example console sessions and screenshots) is documented in docs/USER_MANUAL.md.
 
 Grading System
+
 Grades are assigned based on the average of 5 subject marks:
 ​
 
@@ -199,6 +200,7 @@ Math+Science+English+History+Computer
 Detailed explanation, examples, and test cases are in docs/GRADING_SYSTEM_EXPLANATION.md and docs/TEST_CASES.md.
 
 Documentation
+
 All formal documentation lives in the docs/ folder:
 
 INSTALLATION_SETUP.md – full installation + project structure.
@@ -212,6 +214,7 @@ TEST_CASES.md – functional, validation, and boundary test cases for the system
 Sample data for demos and screenshots is in examples/sample-grades.txt.
 
 Future Enhancements
+
 Ideas to extend this project:
 
 File or database persistence (save/load students between runs).
