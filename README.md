@@ -1,7 +1,7 @@
 
 # Grade Management System (Java, Console)
 
-A simple Grade Management System built in Java that stores student marks, calculates averages, assigns letter grades (A+–F), and generates performance reports for a class of students. It uses arrays and ArrayList, a menu-driven console UI, and cleanly separated classes suitable for BCA/CS mini-projects and interview portfolios.
+A simple Grade Management System built in Java that stores student marks, calculates averages, assigns letter grades (A+–F), and generates performance reports for a class of students. It uses arrays and ArrayList, a menu-driven console UI, and cleanly separated classes .
 ​
 
 # Table of Contents
