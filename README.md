@@ -107,7 +107,7 @@ Clone and build
 bash
 
 # Clone repository
-git clone https://github.com/<your-username>/GradeManagementSystem.git
+git clone https://github.com/tania2406/GradeManagementSystem
 
 cd GradeManagementSystem
 
