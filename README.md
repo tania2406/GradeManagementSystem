@@ -48,31 +48,53 @@ Repository layout:
 
 text
 GradeManagementSystem/
+
 ├── README.md
+
 ├── src/
+
 │   ├── GradeManagementSystem.java      # Main program & menu
+
 │   ├── StudentGrade.java               # Student data model
+
 │   ├── GradeCalculator.java            # Average & grade logic
+
 │   ├── ReportGenerator.java            # Printing tables & reports
+
 │   └── InputValidator.java             # Input validation helpers
+
 ├── docs/
+
 │   ├── USER_MANUAL.md
+
 │   ├── INSTALLATION_SETUP.md
+
 │   ├── GRADING_SYSTEM_EXPLANATION.md
+
 │   ├── TEST_CASES.md
-│   └── screenshots/
+
+│   └── Screenshots/
+
 │       ├── Main_Menu.jpeg
+
 │       ├── Add_Marks.jpeg
+
 │       ├── View_Student.jpeg
+
 │       ├── Search_Student.jpeg
+
 │       └── Class_Report.jpeg
+
 └── examples/
     └── Sample_data.txt               # Sample student data & expected output
+    
 This structure follows common Java console project conventions, keeping code under src/ and documentation under docs/.
 ​
 
 Getting Started
+
 Prerequisites
+
 Java JDK 8+ installed (java -version / javac -version).
 ​
 
@@ -81,17 +103,22 @@ Terminal / command prompt.
 (Optional) IDE like Eclipse, IntelliJ IDEA, or VS Code.
 
 Clone and build
+
 bash
+
 # Clone repository
 git clone https://github.com/<your-username>/GradeManagementSystem.git
+
 cd GradeManagementSystem
 
 # Compile (from project root)
 cd src
+
 javac *.java
 
 # Run
 java GradeManagementSystem
+
 You should see:
 
 text
