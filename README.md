@@ -46,7 +46,6 @@ Console-based, no external libraries; easy to compile and run on any system with
 # Project Structure
 Repository layout:
 
-text
 GradeManagementSystem/
 
 ├── README.md
