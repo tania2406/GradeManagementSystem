@@ -199,7 +199,7 @@ Math+Science+English+History+Computer
  
 Detailed explanation, examples, and test cases are in docs/GRADING_SYSTEM_EXPLANATION.md and docs/TEST_CASES.md.
 
-Documentation
+# Documentation
 
 All formal documentation lives in the docs/ folder:
 
@@ -213,9 +213,9 @@ TEST_CASES.md – functional, validation, and boundary test cases for the system
 
 Sample data for demos and screenshots is in examples/sample-grades.txt.
 
-Future Enhancements
+# Future Enhancements
 
-Ideas to extend this project:
+ Ideas to extend this project:
 
 File or database persistence (save/load students between runs).
 ​
